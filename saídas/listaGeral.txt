@@ -1,0 +1,91 @@
+IDADES DOS PARTICIPANTES: 
+13 | 76.47% | 19 anos
+2 | 11.76% | 20 anos
+1 | 5.88% | 15 anos
+1 | 5.88% | 23 anos
+
+JOGOS MAIS JOGADOS POR DIVERSAO: 
+3 | 17.65% | league of legends
+2 | 11.76% | clash of clans
+2 | 11.76% | gta v
+2 | 11.76% | minecraft
+2 | 11.76% | stardew valley
+2 | 11.76% | terraria
+1 | 5.88% | assassin's creed
+1 | 5.88% | bioshock
+1 | 5.88% | borderlands
+1 | 5.88% | brawl stars
+1 | 5.88% | brawlhalla
+1 | 5.88% | bully
+1 | 5.88% | coromon
+1 | 5.88% | dauntless
+1 | 5.88% | dead by daylight
+1 | 5.88% | devil may cry 4
+1 | 5.88% | devil may cry 5
+1 | 5.88% | dragon city
+1 | 5.88% | elden ring
+1 | 5.88% | final fantasy xiv
+1 | 5.88% | forza horizon 4
+1 | 5.88% | free fire
+1 | 5.88% | genshin impact
+1 | 5.88% | grounded
+1 | 5.88% | gta san andreas
+1 | 5.88% | hay day
+1 | 5.88% | left 4 dead 2
+1 | 5.88% | mad max
+1 | 5.88% | monster hunter
+1 | 5.88% | palworld
+1 | 5.88% | pokemon fire red
+1 | 5.88% | rainbow six
+1 | 5.88% | red dead redemption 1
+1 | 5.88% | red dead redemption 2
+1 | 5.88% | rimworld
+1 | 5.88% | roblox
+1 | 5.88% | rocket league
+1 | 5.88% | squad busters
+1 | 5.88% | super auto pets
+1 | 5.88% | um monte
+1 | 5.88% | wuthering waves
+1 | 5.88% | zenless zone zero
+
+JOGOS MAIS JOGADOS PARA APRENDIZADO: 
+3 | 18.75% | league of legends
+2 | 12.50% | minecraft
+2 | 12.50% | pokemon fire red
+1 | 6.25% | bioshock
+1 | 6.25% | chrono trigger
+1 | 6.25% | dead by daylight
+1 | 6.25% | genshin impact
+1 | 6.25% | gta v
+1 | 6.25% | medieval dynasty
+1 | 6.25% | red dead redemption 2
+1 | 6.25% | stardew valley
+1 | 6.25% | steins;gate
+
+GENEROS MAIS JOGADOS: 
+4 | 23.53% | rpg
+2 | 11.76% | casual
+2 | 11.76% | fps
+2 | 11.76% | luta
+2 | 11.76% | plataforma
+1 | 5.88% | administracao de recursos
+1 | 5.88% | exploracao
+1 | 5.88% | gacha
+1 | 5.88% | jrpg
+1 | 5.88% | mmorpg
+1 | 5.88% | mundo aberto
+1 | 5.88% | sandbox
+1 | 5.88% | simulacao
+1 | 5.88% | terror
+
+GENEROS MAIS RECOMENDADOS: 
+8 | 47.06% | rpg
+4 | 23.53% | historia
+2 | 11.76% | visual novel
+1 | 5.88% | luta
+1 | 5.88% | online
+
+APLICATIVOS USADOS PARA APRENDIZADO: 
+4 | 80.00% | duolingo
+1 | 20.00% | cambly
+
